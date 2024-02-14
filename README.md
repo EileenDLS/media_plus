@@ -11,3 +11,6 @@ Backend: Java, Hibernate
 
 Database: MySQL, AWS RDS
 
+# Project Intro
+https://www.dalingsweb.com/media
+
